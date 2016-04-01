@@ -9,7 +9,7 @@ import json
 #print (output)
 
 
-a = polowrapper.poloniex('L70DN1US-G4620JC9-WNGMCD2Z-E7P8PF21','869be3f3947af0ee9e8e6a6ad152dc81c174587df73968150765560d3dffb1179db95bf98098167aef4512290a53724f594a0a71fc81493e63b7e6ec909d3fcf')
+a = polowrapper.poloniex('','')
 #a.returnTicker()
 #test = a.returnMarketTradeHistory('BTC_XMR')
 #print (json.dumps(test, indent=4, sort_keys=True))
